@@ -44,6 +44,12 @@ ansible 2.10.8
   ansible python module location = /usr/lib/python3/dist-packages/ansible
   executable location = /usr/bin/ansible
   python version = 3.10.6 (main, Mar 10 2023, 10:55:28) [GCC 11.3.0]
+  
+4. **Воспроизведите практическую часть лекции самостоятельно.**  
+
+![5-2_docker](5-2_docker.png)
+
+![5-2_docker-1](5-2_docker-1.png)
 
 
 

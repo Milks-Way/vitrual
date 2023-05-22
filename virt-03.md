@@ -7,11 +7,11 @@
     - создайте свой fork образа;
     - реализуйте функциональность: запуск веб-сервера в фоне с индекс-страницей, содержащей HTML-код
 
-    ![docker_5-3](./docker_5-3.png)
+    ![docker_5-3](./docker_5-3.png);
 
-    ![docker_5-3_1](./docker_5-3_1.png)
+    ![docker_5-3_1](./docker_5-3_1.png);
 
-    ![docker_5-3_2](./docker_5-3_2.png)
+    ![docker_5-3_2](./docker_5-3_2.png);
 
     Опубликуйте созданный fork в своём репозитории: https://hub.docker.com/repository/docker/novomate/docker-learning/general
 
@@ -43,10 +43,10 @@
     - Добавьте ещё один файл в папку /data на хостовой машине.
     - Подключитесь во второй контейнер и отобразите листинг и содержание файлов в /data контейнера.
 
-    ![docker_5-3_3-1](./docker5-3_3-1.png)
+    ![docker_5-3_3-1](./docker5-3_3-1.png);
 
-    ![docker_5-3_3-2](./docker5-3_3-2.png)
+    ![docker_5-3_3-2](./docker5-3_3-2.png);
 
-    ![docker_5-3_3-3](./docker5-3_3-3.png)
+    ![docker_5-3_3-3](./docker5-3_3-3.png);
 
-    ![docker_5-3_3-4](./docker5-3_3-4.png)
+    ![docker_5-3_3-4](./docker5-3_3-4.png);

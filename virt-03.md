@@ -12,6 +12,8 @@
     ![docker_5-3_1](docker_5-3_1.png);
 
     ![docker_5-3_2](docker_5-3_2.png);
+    
+    ![docker_5-3_3](./docker_5-3_3.png)
 
     Опубликуйте созданный fork в своём репозитории: https://hub.docker.com/repository/docker/novomate/docker-learning/general
 

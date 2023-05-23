@@ -7,11 +7,11 @@
     - создайте свой fork образа;
     - реализуйте функциональность: запуск веб-сервера в фоне с индекс-страницей, содержащей HTML-код
 
-    ![docker_5-3](docker_5-3.png);
+    ![docker_5-3](docker_5-3.png)
 
-    ![docker_5-3_1](docker_5-3_1.png);
+    ![docker_5-3_1](docker_5-3_1.png)
 
-    ![docker_5-3_2](docker_5-3_2.png);
+    ![docker_5-3_2](docker_5-3_2.png)
     
     ![docker_5-3_3](./docker_5-3_3.png)
 

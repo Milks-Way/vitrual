@@ -9,7 +9,7 @@
 
     Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.
 
-    ![y-cloud_2](./y-cloud_1.png)
+    ![y-cloud_2](./y-cloud_2.png)
 
 3. **Задача 3**
 
